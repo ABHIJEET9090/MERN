@@ -1,0 +1,19 @@
+{
+    "mydata":[
+        {
+                "image": "https://posterhouse.org/wp-content/uploads/2021/05/silence_of_the_lambs_0.jpg",
+                "title": "The silence of the lambs",
+                "rating": 5
+        },  
+        {   
+                "image": "https://www.designer-daily.com/wp-content/uploads/2012/12/lord-war-creative-movie-posters.jpg",
+           "    title": "LORD of WAR",
+                "rating": 5
+        },  
+        {   
+                "image": "https://i2.wp.com/www.instantshift.com/assets/uploads/2008/12/cmp-01.jpg",
+                "title": "The BROKEN",
+                "rating": 5
+        }
+]
+}

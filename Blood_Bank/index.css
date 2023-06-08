@@ -1,0 +1,56 @@
+#nav1{
+    background-color: black;
+    height: 10%;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+#nav1 h2{
+    color: bisque;
+    position: absolute;
+    right: 10%;
+}
+nav {
+    background-color:lightblue ;
+    height: 60px;
+    padding: 10px;
+    position: fixed;
+    top: 10%;
+    width: 100%;
+    left: 0%;
+    
+  }
+  
+  .welcome-container {
+    animation: marquee 15s linear infinite;
+    white-space: nowrap;
+  }
+  
+  .welcome-text {
+    color: darkblue;
+    font-size: 25pt;
+    position: absolute;
+    top: 0px;
+  }
+  
+  @keyframes marquee {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+  }
+  #nav2{
+    position: absolute;
+    width: 100%;
+    top: 20%;
+    left:0px;
+    right:0px;
+    z-index: -1;
+    /* border: 6px solid rgb(240, 126, 126);
+    border-left: 10px solid rgb(235, 110, 110);
+    border-right: 10px solid rgb(237, 108, 108); */
+  }
+  #nav2 img{
+    height: 650px;
+    width: 100%;
+  }

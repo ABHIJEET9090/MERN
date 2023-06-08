@@ -1,0 +1,94 @@
+#resturant{
+    width: 1600PX;
+    border: 5px black solid;
+    background-color: yellowgreen;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap :5px;
+    background-image: linear-gradient(
+    to bottom right,
+    orange
+    ,
+    darkorange
+  );
+  position: relative;
+  top:150px;
+}
+#resturant img{
+    border: 5px black solid;
+    width:350px;
+    height:500px;
+    object-fit: cover;
+    border-radius: 30px;
+    box-shadow:3px 3px 10px;
+    
+}
+#resturant h1{
+    text-align: center;
+    font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    color: #062a0f;
+    text-shadow: 2px 2px;
+}
+#resturant p{
+    text-align: center;
+    color: bisque;
+    font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+#resturant button{
+  font-size: 16px;
+  height:25px;
+    border-radius: 10px;
+    color: purple;
+    background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 0, 0.5),
+    rgba(0, 0, 255, 0.5)
+  );
+}
+#resturant div{
+    border: 1px solid;
+    text-align:center;
+    margin:5px;
+    box-shadow:3px 3px 8px;
+  }
+  #nav{
+    height:150px;
+    width: 100%;
+    z-index:1;
+    position:fixed;
+    top:0px;
+    left:0px;
+    right:0px;
+    background-color: white;
+
+  }
+  #nav h1{
+    position:absolute;
+    left:640px;
+    top:15px;
+    font-family: 'Times New Roman', Times, serif;
+
+  }
+  #nav input{
+    position: absolute;
+    right:200px;
+    bottom:10px;
+    height:30px;
+    width:300px;
+    background-color:rgb(246, 242, 242);
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+  #nav button{
+    position:absolute;
+    right: 100px;
+    bottom:10px;
+    height:35px;
+    width:80px;
+    background-color:rgb(246, 242, 242);
+    border: 2px solid black;
+    border-radius: 10px;
+
+  }

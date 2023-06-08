@@ -1,0 +1,52 @@
+{
+  "myData": [
+    {
+      "id": 1685803249201,
+      "email": "sahooabhijeet48@gmail.com",
+      "password": "12"
+    },
+    {
+      "id": 1685803614682,
+      "email": "sahooabhijeet48@gmail.com",
+      "password": "1"
+    }
+  ],
+  "myrecipe": [
+    {
+      "dish": "CHICKEN BIRIYANI",
+      "link": "https://media.istockphoto.com/id/1278396239/photo/delicious-chicken-biryani.jpg?s=2048x2048&w=is&k=20&c=g02pO2rHtFYEfkfpC0YnYNUrkjr5VH6VsZsRuJpuvt0=",
+      "description": "Delicious and spicy home made chicken biryani in traditional bowl with raita and salad on black background",
+      "id": 1
+    },
+    {
+      "dish": "crab curry",
+      "link": "https://media.istockphoto.com/id/536381178/photo/crab-curry-in-coconut-milk.jpg?s=2048x2048&w=is&k=20&c=LFjmXoI4mWGLN_O-GoqTGTRbJre3-qL2ji-GUjPjW90=",
+      "description": "Crab curry in Thai infused red coconut curry sauce on dark moody background, selective focus",
+      "id": 2
+    },
+    {
+      "dish": "mutton",
+      "link": "https://media.istockphoto.com/id/494350327/photo/mutton-curry.jpg?s=612x612&w=0&k=20&c=hVHgWtkKFsQKorKVk30RabALq_09gJR0TsU4P0RZDfg=",
+      "description": "Mutton Curry is a one pot dish where mutton is marinated and cooked with plenty of spices, herbs, onions, tomatoes and yogurt. It is basically a curried dish popular in Indian Sub-continent. Indian Cuisine is diverse and every dish is made in a zillion ways.",
+      "id": 3
+    },
+    {
+      "dish": "Spicy indian Chilly Chicken",
+      "link": "https://media.istockphoto.com/id/1185465221/photo/chilly-chicken.jpg?s=2048x2048&w=is&k=20&c=97Ua2coQq0XVWEZbM-Ng9-zEbOT1ict6eoPuo978nMY=",
+      "description": "Chilly chicken is a popular Indo-Chinese dish that is spicy and delicious. It is made by marinating chicken in a mixture of spices and sauces and then frying it until crispy. The dish is usually served with rice or noodles",
+      "id": 4
+    },
+    {
+      "dish": "Chicken",
+      "link": "https://media.istockphoto.com/id/914008376/photo/indian-dish-of-spicy-hot-chicken-curry-in-red.jpg?s=2048x2048&w=is&k=20&c=r5dBJjXu1GWmEGikjZHcAe8Mw0rdyXJxKJkNjBL5zH4=",
+      "description": "Indian spicy chicken curry top view. Traditional kerala chicken curry two legs cooked in thick gravy with herbs and spices mint leaf. Side dish for appam puttu chapatti parota served in iron or copper bowl with dark black background",
+      "id": 5
+    },
+    {
+      "dish": "Marinated fried fish",
+      "link": "https://media.istockphoto.com/id/609932720/photo/fish-fry-marinated-fried-fish-on-iron-skillet-griddle.jpg?s=2048x2048&w=is&k=20&c=IxHPubYVnri7Oqi2OJyO4rzmuvgS-Kl060q1jcQUVlc=",
+      "description": "Marinated fried fish is a delicious dish that can be enjoyed as an appetizer or main course. There are many different recipes for marinated fried fish, but most involve marinating the fish in a mixture of spices and then frying it until crispy",
+      "id": 6
+    }
+  ]
+}
