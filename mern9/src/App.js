@@ -26,9 +26,9 @@ import Card from './components/card';
         .then((res) => res.json())
         .then((data) => {
           setWholeArr(data);
-          const end=page*6;
+          const end=page*10;
           const start=page-1;
-          const newData=data.slice(start*6,end);
+          const newData=data.slice(start*10,end);
           setArr(newData);
         });
     };
